@@ -11,3 +11,12 @@
     - [Presenter](https://gist.github.com/marcpicone/f6ce5f53984d2d9e1d828484e7df6b3e)
     - [Contract](https://gist.github.com/marcpicone/d8fff9a58597d09315e7b97727600921)
     - [Layout](https://gist.github.com/marcpicone/09a96959afc4701302ee5a5e302794c3)
+    
+## How to use
+
+1. Download the zip file
+2. Open Android Studio or an InteliJ based IDE
+3. go to File > Manage Ide Settings > Import Settings
+4. Choose this zip file and click OK. This will :
+    - Add all the files to your child template and only those files, no other settings.
+    - Those files will be added to existing file template, overwritte only if the template name is the same.
